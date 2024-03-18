@@ -1,0 +1,16 @@
+.welcome-message{
+  background-color: hsl(136, 100%, 40%);
+  color: white;
+  padding: 10px;
+  margin: 0;
+  border-radius: 10px;
+  font-size: 2em;
+}
+.login-prompt{
+  background-color: hsl(0, 100%, 40%);
+  color: white;
+  padding: 10px;
+  margin: 0;
+  border-radius: 10px;
+  font-size: 2em;
+}
